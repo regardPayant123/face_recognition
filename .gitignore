@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environnements virtuels
+venv/
+.env/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Données lourdes
+data/
+datasets/
+
+# Modèles
+*.pth
+*.pt
+*.ckpt
+
+# Logs
+logs/
+*.log
